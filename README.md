@@ -1,4 +1,4 @@
-# Cognitive Science of Large Language Models — Module-free Hugo/blogdown Site
+# Grad Research Methods — Module-free Hugo/blogdown Site
 
 ## Build locally (R)
 
