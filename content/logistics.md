@@ -24,5 +24,5 @@ The readings are available [here](https://drive.google.com/drive/folders/1waKM7z
 
 ## Where to submit what 
 
-Submit reading responses on the class Canvas site. Submit and vote on questions [here]().
+Submit reading responses and assignments on the class Canvas site. Submit and vote on questions [here]().
 

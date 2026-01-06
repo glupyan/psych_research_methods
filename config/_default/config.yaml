@@ -1,6 +1,6 @@
 baseURL: "/"
 languageCode: "en-us"
-title: "Psych 711: Cognitive Science of Large Language Models. Fall, 2025"
+title: "Psych 711: Cognitive Science of Large Language Models. Spring, 2026"
 markup:
   goldmark:
     renderer:
@@ -8,7 +8,7 @@ markup:
 params:
   description: "Cognitive Science of Large Language Models"
   author:
-    name: "Gary Lupyan"
+    name: "Gary Lupyan/Joao Moreira"
   favicon:
     icon: "images/icon.png"
 menu:

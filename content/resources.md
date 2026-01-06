@@ -11,5 +11,5 @@ The site was built with Blogdown/Hugo/Netlify and some ChatGPT magic.
 - Netlify: https://docs.netlify.com/  
 - [Github repo for this page](https://github.com/glupyan/grad_research_methods)
 
-The image on the front page is Miro's [_Femme t oiseau_](https://arthive.com/fr/joanmiro/works/492376~Femme_et_oiseau)
+The image on the front page is Max Ernst's [The Gramineous Bicycle Garnished with Bells the Dappled Fire Damps and the Echinoderms Bending the Spine to Look for Caresses (La Biciclette graminée garnie de grelots les grisons grivelés et les échinodermes courbants l'échine pour quêter des caresses)](https://www.moma.org/calendar/exhibitions/3869)
 
