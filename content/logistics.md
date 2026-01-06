@@ -11,9 +11,9 @@ date: 2026-01-05
 
 **Section Time:** Mondays, 3:00pm-3:50pm, Brogden 634
 
-**Office hours for Gary:** TBD, Brogden 526
+**Office hours for Gary:** Wednesday 4pm-5pm, Brogden 526
 
-**Office hours for João:** Monday 10-11AM, Brogden 517
+**Office hours for João:** Monday 10am-11am, Brogden 517
 
 **Syllabus:** [Class syllabus](../grad_methods_syllabus.pdf)
 
