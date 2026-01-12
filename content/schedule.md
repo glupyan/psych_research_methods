@@ -78,7 +78,7 @@ TBD
 
 ## Week 10, Wednesday, 03/25 _Non-Experimental Design 1: Surveys; Item Response Theory; Propensity score matching_
 
-* **Readings:** TBD
+* **Readings:** <a href="javascript:void(0)" class="cite-pop" role="button" tabindex="0" data-ref="Reise, S. P. &amp;amp; Waller, N. G. (2009). Item Response Theory and Clinical Measurement. &lt;em&gt;Annual Review of Clinical Psychology&lt;/em&gt;, &lt;em&gt;5&lt;/em&gt;(1), 27-48. &lt;a href=&quot;https://doi.org/10.1093/pnasnexus/pgae089&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://doi.org/10.1146/annurev.clinpsy.032408.153553&lt;/a&gt;" data-plain="Reise, S. P. &amp;amp; Waller, N. G. (2009). Item Response Theory and Clinical Measurement. Annual Review of Clinical Psychology, 5(`), 27-48. https://doi.org/10.1146/annurev.clinpsy.032408.153553">Reise &amp;amp; Waller (2009)</a>; <a href="javascript:void(0)" class="cite-pop" role="button" tabindex="0" data-ref="Clark, L. A., &amp;amp; Watson, D. (1995). Constructing Validity: Basic Issues in Objective Scale Development. &lt;em&gt;Psychological Assessment&lt;/em&gt;, &lt;em&gt;7&lt;/em&gt;(3), 309-319. &lt;a href=&quot;https://doi.org/10.1037/14805-012&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://doi.org/10.1037/14805-012&lt;/a&gt;" data-plain="Clark, L. A., &amp;amp; Watson, D. (1995). Constructing Validity: Basic Issues in Objective Scale Development. Psychological Assessment, 7(3), 309-319. https://doi.org/10.1037/14805-012">Clark &amp;amp; Watson (1995)</a>
 
 ### Section: Monday, 03/30
 * Spring Break. Enjoy!
