@@ -1,4 +1,3 @@
-
 # Class Schedule[^:1]
 
 We recommend reading the papers in the order in which they are listed.
@@ -7,10 +6,10 @@ We recommend reading the papers in the order in which they are listed.
 
 ## `r advdate(lecture, 1)` _The scientific method as it pertains to psychology_
 
-* **Readings (in class):** @feynmanCargoCultScience1974; @forscherChaosBrickyard1963; 
+* **Readings (in class):** @forscherChaosBrickyard1963; @chiangCatchingCrumbsTable2000
 
 ### `r advdate(section, 1)`
-* **Read for section**: @cohenEarthP; @gelmanInterrogatingCargoCult2025; [Experimentology: Primer on research ethics](https://experimentology.io/004-ethics.html)
+* **Read for section**: @feynmanCargoCultScience1974; @gelmanInterrogatingCargoCult2025; @cohenEarthP; [Experimentology: Primer on research ethics](https://experimentology.io/004-ethics.html)
 
 ## `r advdate(lecture, 2)` _Experiments, causality, and the two disciplines of psychology_
 
@@ -58,7 +57,7 @@ TBD
 
 * **Readings:** [Experimentology: Data collection](https://experimentology.io/012-collection.html); @westwoodPotentialExistentialThreat2025
 
-* Extra: @kayWhyYouShouldnt2025
+* Extra: @kayWhyYouShouldnt2025; @andersHowOnlineStudies2026
 
 ### `r advdate(section, 7)`
 * Practice with designing effective data quality checks
