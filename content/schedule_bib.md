@@ -26,7 +26,9 @@ We recommend reading the papers in the order in which they are listed.
 * Extra: @sijtsmaUseMisuseVery2009; @cortinaAlphaOmegaLook2020; 
 
 ### `r advdate(section, 3)`
-* Assignment 1: With a partner, prepare a short (~5 minute) presentation on the challenges in establishing one of the discussed types of validity in your ongoing research.
+* Assignment 1: With a partner, prepare a short (~5 minute) presentation on what you know and don't know about the validity of the measures you are using in your research and how you could go about further improving the validity or (2) Reflect on the money-->happiness example and come up a validation validation strategy for a specific measure of happiness. In either case, discuss different types of validity. What type of data collection would this validation effort require?
+
+ meeither the challenges in establishing one of the discussed types of validity in your ongoing research (how are you a)
 
 
 ## `r advdate(lecture, 4)` _Experimental Design 1: Design basics; the ergodic fallacy_
@@ -53,18 +55,18 @@ TBD
 ### `r advdate(section, 6)`
 TBD
 
-## `r advdate(lecture, 7)` _Experimental Design 2: Participant consent & recruitment; counterbalancing; instructions; data quality checks_
+## `r advdate(lecture, 7)` _Experimental Design 2: Best practices in running behavioral studies; data quality checks_
 
-* **Readings:** [Experimentology: Data collection](https://experimentology.io/012-collection.html); @westwoodPotentialExistentialThreat2025
+* **Readings:** [Experimentology: Data collection](https://experimentology.io/012-collection.html); @barbosaPracticalGuideStudying2023; @westwoodPotentialExistentialThreat2025; 
 
 * Extra: @kayWhyYouShouldnt2025; @andersHowOnlineStudies2026
 
 ### `r advdate(section, 7)`
 * Practice with designing effective data quality checks
 
-## `r advdate(lecture, 8)` _Experimental Design 3: Introduction to some common behavioral methods_
+## `r advdate(lecture, 8)` _Experimental Design 3: Closer look at some common/useful behavioral methods_
 
-* **Readings:** Skim through these, pausing on what most interests you: @bowerExperimentalMethodsCognitive1989; @leekAdaptiveProceduresPsychophysical2001; the first chapter or two of @macmillanDetectionTheoryUsers2005
+* **Readings:** Skim these, pausing on what most interests you: @barbosaPracticalGuideStudying2023; @leekAdaptiveProceduresPsychophysical2001; Skim the first chapter or two of @macmillanDetectionTheoryUsers2005
 
 ### `r advdate(section, 8)`
 * TBD
