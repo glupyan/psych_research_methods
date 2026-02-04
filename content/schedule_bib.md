@@ -26,9 +26,7 @@ We recommend reading the papers in the order in which they are listed.
 * Extra: @sijtsmaUseMisuseVery2009; @cortinaAlphaOmegaLook2020; 
 
 ### `r advdate(section, 3)`
-* Assignment 1: With a partner, prepare a short (~5 minute) presentation on what you know and don't know about the validity of the measures you are using in your research and how you could go about further improving the validity or (2) Reflect on the money-->happiness example and come up a validation validation strategy for a specific measure of happiness. In either case, discuss different types of validity. What type of data collection would this validation effort require?
-
- meeither the challenges in establishing one of the discussed types of validity in your ongoing research (how are you a)
+* Assignment 1: With a partner, prepare a short (~5 minute) presentation on what you know and don't know about the reliability and validity of the measures you are using in your research and how you could go about further improving them or (2) Reflect on the money-->happiness example and come up a validation strategy for a specific measure of happiness. In either case, discuss different types of validity. What type of data collection would this validation effort require?
 
 
 ## `r advdate(lecture, 4)` _Experimental Design 1: Design basics; the ergodic fallacy_
