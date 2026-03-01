@@ -64,7 +64,7 @@ TBD
 
 ## `r advdate(lecture, 8)` _Experimental Design 3: Closer look at some common/useful behavioral methods_
 
-* **Readings:** Skim these, pausing on what most interests you: @barbosaPracticalGuideStudying2023; @leekAdaptiveProceduresPsychophysical2001; Skim the first chapter or two of @macmillanDetectionTheoryUsers2005
+* **Readings:** Skim Bower & Clapper, pausing on what most interests you & reading those parts more thoroughly @bowerExperimentalMethodsCognitive1989; skim over @leekAdaptiveProceduresPsychophysical2001 to make sure you understand the goal and key parts of these adaptive methods; Look over the first chapter or two of @macmillanDetectionTheoryUsers2005
 
 ### `r advdate(section, 8)`
 * TBD
