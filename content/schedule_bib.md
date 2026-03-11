@@ -71,7 +71,7 @@ TBD
 
 ## `r advdate(lecture, 9)` _Quantifying Qualitative Data_
 
-* **Readings:** @charlesworthExtractingIntersectionalStereotypes2024; @linAdvancingAffSciDeepLearning2023
+* **Readings:** @charlesworthExtractingIntersectionalStereotypes2024; @lin2023
 
 ### `r advdate(section, 9)`
 * Working with word embeddings
