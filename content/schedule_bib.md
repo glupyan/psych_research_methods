@@ -87,7 +87,7 @@ We recommend reading the papers in the order in which they are listed.
 
 ## `r advdate(lecture, 12)` _Non-Experimental Methods 2: Longitudinal & In-the-Wild Data_ [Joao]
 
-* **Readings:** TBD; @goldstone_discovering_2016
+* **Readings:** Pick one of: @curran2010GrowthCurveFAQ OR lucas2023CLPM; @goldstone_discovering_2016
 
 ### `r advdate(section, 12)`
 * [Joao]
