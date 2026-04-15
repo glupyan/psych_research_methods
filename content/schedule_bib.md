@@ -26,7 +26,7 @@ We recommend reading the papers in the order in which they are listed.
 * Extra: @sijtsmaUseMisuseVery2009; @cortinaAlphaOmegaLook2020; 
 
 ### `r advdate(section, 3)`
-* Assignment 1: With a partner, prepare a short (~5 minute) presentation on what you know and don't know about the reliability and validity of the measures you are using in your research and how you could go about further improving them or (2) Reflect on the money-->happiness example and come up a validation strategy for a specific measure of happiness. In either case, discuss different types of validity. What type of data collection would this validation effort require? [Gary]
+* With a partner, prepare a short (~5 minute) presentation on what you know and don't know about the reliability and validity of the measures you are using in your research and how you could go about further improving them or (2) Reflect on the money-->happiness example and come up a validation strategy for a specific measure of happiness. In either case, discuss different types of validity. What type of data collection would this validation effort require? [Gary]
 
 
 ## `r advdate(lecture, 4)` _Experimental Design 1: Design basics; the ergodic fallacy_ [Gary]
@@ -87,7 +87,7 @@ We recommend reading the papers in the order in which they are listed.
 
 ## `r advdate(lecture, 12)` _Non-Experimental Methods 2: Longitudinal & In-the-Wild Data_ [Joao]
 
-* **Readings:** Pick one of: @curran2010GrowthCurveFAQ OR @lucas2023CLPM; @goldstone_discovering_2016
+* **Readings:** TBD; @goldstone_discovering_2016
 
 ### `r advdate(section, 12)`
 * [Joao]
@@ -97,7 +97,7 @@ We recommend reading the papers in the order in which they are listed.
 * **Readings:** [Experimentology: Meta-Analysis](https://experimentology.io/016-meta.html); TBD
 
 ### `r advdate(section, 13)`
-* [Joao]
+* [Joao] - With a partner, prepare a short (~5 minute) presentation on a meta-analysis paper of your choice. What was the outstanding question? What methods did the authors use in meta-analyzing the literature? What did the meta-analysis find and how does it match up with claims made in the individual papers? Did it reveal any publication bias? In your judgment, do we now have a more 'final' word on whether the effect in question is real?
 
 ## `r advdate(lecture, 14)` _Putting it all together: Maximizing knowledge gain_ [Gary]
 
