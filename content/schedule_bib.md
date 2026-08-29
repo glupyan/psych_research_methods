@@ -1,32 +1,31 @@
 # Class Schedule[^:1]
 
-We recommend reading the papers in the order in which they are listed.
+We recommend reading the papers in the order they are listed.
 
 [^:1]: Subject to revision
 
-## `r advdate(lecture, 1)` _The scientific method as it pertains to psychology_ [Gary & Joao]
+## **Week 01** `r advdate(section, 1)` _The scientific method as it pertains to psychology_ [Gary]
+(We'll use up the whole 9:30-10:45am timeslot this week)
 
 * **Readings (in class):** @forscherChaosBrickyard1963; @chiangCatchingCrumbsTable2000
-
-### `r advdate(section, 1)`
-* **Read for section**: @feynmanCargoCultScience1974; @gelmanInterrogatingCargoCult2025; @cohenEarthP; [Experimentology: Primer on research ethics](https://experimentology.io/004-ethics.html) [Gary]
+* **Readings for after class**: @feynmanCargoCultScience1974; @gelmanInterrogatingCargoCult2025; @cohenEarthP; [Experimentology: Primer on research ethics](https://experimentology.io/004-ethics.html).
 
 ## `r advdate(lecture, 2)` _Experiments, causality, and the two disciplines of psychology_ [Gary]
 
 * **Readings:** [Experimentology: Experiments & causal inference](https://experimentology.io/001-experiments.html); [Experimentology: How data inform theoretical constructs](https://experimentology.io/002-theories.html); @cronbachTwoDisciplinesScientific1957
 
 ### `r advdate(section, 2)`
-* Read @Smaldino2017ModelsStupid; discussion of when should we (not) do experiments? A discussion of what (non)experimental methods can and can't tell us. What are good uses of modeling? [Gary]
+* Read @Smaldino2017ModelsStupid; discussion of when should we (not) do experiments? A discussion of what (non)experimental methods can and can't tell us. What are good uses of modeling? [Joao]
 
 
-## `r advdate(lecture, 3)` _Measurement: Validity, reliability, the reliability paradox_ [Gary]
+## `r advdate(lecture, 3)` _Measurement: Validity, reliability, the reliability paradox_ [Joao]
 
 * **Readings:** [Experimentology: Measurement](https://experimentology.io/008-measurement.html); @westfallStatisticallyControllingConfounding2016; @hedgeReliabilityParadoxWhy2018; @zorowitzImprovingReliabilityCognitive2023
 
 * Extra: @sijtsmaUseMisuseVery2009; @cortinaAlphaOmegaLook2020; 
 
 ### `r advdate(section, 3)`
-* With a partner, prepare a short (~5 minute) presentation on what you know and don't know about the reliability and validity of the measures you are using in your research and how you could go about further improving them or (2) Reflect on the money-->happiness example and come up a validation strategy for a specific measure of happiness. In either case, discuss different types of validity. What type of data collection would this validation effort require? [Gary]
+* With a partner, prepare a short (~5 minute) presentation on what you know and don't know about the reliability and validity of the measures you are using in your research and how you could go about further improving them or (2) Reflect on the money-->happiness example and come up with a validation strategy for a specific measure of happiness. In either case, discuss different types of validity. What type of data collection would this validation effort require? [Gary]
 
 
 ## `r advdate(lecture, 4)` _Experimental Design 1: Design basics; the ergodic fallacy_ [Gary]
@@ -38,7 +37,7 @@ We recommend reading the papers in the order in which they are listed.
 ### `r advdate(section, 4)`
 * [Gary]
 
-## `r advdate(lecture, 5)` _Sampling, power, and effect sizes_ [Joao]
+## `r advdate(lecture, 5)` _Sampling, power, and effect sizes_ [Gary]
 
 * **Readings:** [Experimentology: Sampling](https://experimentology.io/010-sampling.html); @funderEvaluatingEffectSize2019; [Smallest Effect Size of Interest](https://daniellakens.blogspot.com/2017/05/how-power-analysis-implicitly-reveals.html)
 
@@ -60,7 +59,7 @@ We recommend reading the papers in the order in which they are listed.
 * Extra: @kayWhyYouShouldnt2025; @andersHowOnlineStudies2026
 
 ### `r advdate(section, 7)`
-* Practice with designing effective data quality checks [Gary]
+* Practice with designing effective data quality checks [Joao]
 
 ## `r advdate(lecture, 8)` _Experimental Design 3: Closer look at some common/useful behavioral methods_ [Gary]
 
@@ -74,36 +73,39 @@ We recommend reading the papers in the order in which they are listed.
 * **Readings:** @charlesworthExtractingIntersectionalStereotypes2024; @lin2023
 
 ### `r advdate(section, 9)`
-* [Gary]
+* [Joao]
 
 ## `r advdate(lecture, 10)` _Non-Experimental Design 1: Surveys; Item Response Theory; Propensity score matching_ [Joao]
 
 * **Readings:** @reiseItemResponseTheory2009; @clarkConstructingValidityBasic2016
 
 ### `r advdate(section, 10)`
-* Spring Break. Enjoy!
-
-## `r advdate(lecture, 11)` _Spring Break. Enjoy!_
-
-## `r advdate(lecture, 12)` _Non-Experimental Methods 2: Longitudinal & In-the-Wild Data_ [Joao]
-
-* **Readings:** TBD; @goldstone_discovering_2016
-
-### `r advdate(section, 12)`
 * [Joao]
 
-## `r advdate(lecture, 13)` _Meta-Analysis_ [Gary]
+## `r advdate(lecture, 11)` _Non-Experimental Methods 2: Longitudinal & In-the-Wild Data_ [Joao]
 
-* **Readings:** [Experimentology: Meta-Analysis](https://experimentology.io/016-meta.html); TBD
+* **Readings:** @goldstone_discovering_2016
+
+### `r advdate(section, 11)`
+* [Gary]
+
+## `r advdate(lecture, 12)` _Meta-Analysis_ [Gary]
+
+* **Readings:** [Experimentology: Meta-Analysis](https://experimentology.io/016-meta.html)
+
+### `r advdate(section, 12)`
+* [Joao] - With a partner, prepare a short (~5 minute) presentation on a meta-analysis paper of your choice (we will provide some example papers). What was the outstanding question? What methods did the authors use in meta-analyzing the literature? What did the meta-analysis find and how does it match up with claims made in the individual papers? Did it reveal any publication bias? In your judgment, do we now have a more 'final' word on whether the effect in question is real?
+
+## `r advdate(lecture, 13)` _No Class (Thanksgiving travel)_
 
 ### `r advdate(section, 13)`
-* [Joao] - With a partner, prepare a short (~5 minute) presentation on a meta-analysis paper of your choice. What was the outstanding question? What methods did the authors use in meta-analyzing the literature? What did the meta-analysis find and how does it match up with claims made in the individual papers? Did it reveal any publication bias? In your judgment, do we now have a more 'final' word on whether the effect in question is real?
+* _Happy Thanksgiving!_
 
 ## `r advdate(lecture, 14)` _Putting it all together: Maximizing knowledge gain_ [Gary]
 
 * **Readings:** @yarkoniGeneralizabilityCrisis2020; @giner-sorollaCrisisEvidenceCrisis2019; @rozinWhatKindEmpirical2009
 
 ### `r advdate(section, 14)` 
-* Workshopping your final presentations [Gary & Joao]
+* Peer review of grant proposals [Gary & Joao]
 
-## `r advdate(lecture, 15)` _Final presentations_ [Gary & Joao]
+## `r advdate(lecture, 15)` _Presentations of your grant proposals_ [Gary & Joao]

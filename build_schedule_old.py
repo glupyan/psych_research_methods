@@ -339,8 +339,8 @@ def _extract_base_dates(md: str, start_dt: datetime) -> Tuple[datetime, datetime
     if m2:
         section_dt = datetime.strptime(m2.group(1), "%Y-%m-%d").replace(tzinfo=start_dt.tzinfo)
     else:
-        # days until next Thursday (weekday 3)
-        section_dt = lecture_dt + timedelta(days=(3 - lecture_dt.weekday()) % 7)
+        # days until next Monday (weekday 0)
+        section_dt = lecture_dt + timedelta(days=(0 - lecture_dt.weekday()) % 7)
 
     return lecture_dt, section_dt
 
