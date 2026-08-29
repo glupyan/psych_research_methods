@@ -7,7 +7,7 @@ date: 2026-08-25
 
 **Instructors:** Profs. [Gary Lupyan](lupyan@wisc.edu) & [João Guassi Moreira](jmoreira2@wisc.edu).
 
-**Lecture Time:** Wednesdays 9:30pm-10:45am, Brogden 634
+**Lecture Time:** Wednesdays 9:30am-10:45am, Brogden 634
 
 **Section Time:** Thuesdays, 9:30am-10:30am, Brogden 634 (First week we'll use the full 75-minute timeslot that's budgeted)
 

@@ -1,6 +1,6 @@
 baseURL: "/"
 languageCode: "en-us"
-title: "Psych 711: Graduate Research Methods in Psychology. Spring, 2026"
+title: "Psych 711: Graduate Research Methods in Psychology. Fall, 2026"
 markup:
   goldmark:
     renderer:
