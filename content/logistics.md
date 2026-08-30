@@ -11,7 +11,7 @@ date: 2026-08-25
 
 **Section Time:** Thuesdays, 9:30am-10:30am, Brogden 634 (First week we'll use the full 75-minute timeslot that's budgeted)
 
-**Office hours for Gary:** Wednesday 4pm-5pm, Brogden 526
+**Office hours for Gary:** Friday 11am-12pm, Brogden 526
 
 **Office hours for João:** Monday 4pm-5pm, Brogden 517
 

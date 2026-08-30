@@ -1,7 +1,7 @@
 ---
 title: "Graduate Research Methods in Psychology"
 subtitle: ""
-date: 2026-01-05
+date: 2026-08-28
 ---
 
 <div class="hero">

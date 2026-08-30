@@ -6,7 +6,7 @@ markup:
     renderer:
       unsafe: true
 params:
-  description: "Cognitive Science of Large Language Models"
+  description: "Graduate Research Methods in Psychology"
   author:
     name: "Gary Lupyan/Joao Moreira"
   favicon:
