@@ -8,11 +8,11 @@ We recommend reading the papers in the order they are listed.
 (We'll use up the whole 9:30-10:45am timeslot this week)
 
 * **Readings (in class):** @forscherChaosBrickyard1963; @chiangCatchingCrumbsTable2000
-* **Readings for after class**: @feynmanCargoCultScience1974; @gelmanInterrogatingCargoCult2025; @cohenEarthP; [Experimentology: Primer on research ethics](https://experimentology.io/004-ethics.html).
+* **Readings for after class**: @feynmanCargoCultScience1974; @gelmanInterrogatingCargoCult2025; [Experimentology: Primer on research ethics](https://experimentology.io/004-ethics.html).
 
 ## `r advdate(lecture, 2)` _Experiments, causality, and the two disciplines of psychology_ [Gary]
 
-* **Readings:** [Experimentology: Experiments & causal inference](https://experimentology.io/001-experiments.html); [Experimentology: How data inform theoretical constructs](https://experimentology.io/002-theories.html); @cronbachTwoDisciplinesScientific1957
+* **Readings:** @cohenEarthP; [Experimentology: Experiments & causal inference](https://experimentology.io/001-experiments.html); [Experimentology: How data inform theoretical constructs](https://experimentology.io/002-theories.html); @cronbachTwoDisciplinesScientific1957
 
 ### `r advdate(section, 2)`
 * Read @Smaldino2017ModelsStupid; discussion of when should we (not) do experiments? A discussion of what (non)experimental methods can and can't tell us. What are good uses of modeling? [Joao]
