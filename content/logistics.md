@@ -22,7 +22,9 @@ date: 2026-08-25
 
 The readings are available [here](https://drive.google.com/drive/folders/1waKM7zynAJ-bSthSSeRCOjlLQEkP3GwN?usp=sharing). If there are any changes to the syllabus, the Google Drive folder will be automatically updated. In adition to the PDFs available through Google Drive, a number of classes have links to readings from Frank et al's [_Experimentology_](https://experimentology.io/) textbook.
 
-[Information about the final project](/final_project_research_proposal/)
+## Final project
+
+Information about the final project](/final_project_research_proposal/)
 
 ## Where to submit what 
 
