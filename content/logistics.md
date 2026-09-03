@@ -24,5 +24,5 @@ The readings are available [here](https://drive.google.com/drive/folders/1waKM7z
 
 ## Where to submit what 
 
-Submit reading responses and assignments on the class Canvas site. Submit and vote on questions [here](https://glupyan.github.io/psych_research_methods_question_app/).
+Submit reading responses and assignments on the class Canvas site. 
 

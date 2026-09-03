@@ -8,7 +8,7 @@ We recommend reading the papers in the order they are listed.
 (We'll use up the whole 9:30-10:45am timeslot this week)
 
 * **Readings (in class):** @forscherChaosBrickyard1963; @chiangCatchingCrumbsTable2000
-* **Readings for after class**: @feynmanCargoCultScience1974; @gelmanInterrogatingCargoCult2025.
+* **Readings for after class**: @feynmanCargoCultScience1974; @gelmanInterrogatingCargoCult2025;
 
 ## `r advdate(lecture, 2)` _Experiments, causality, and the two disciplines of psychology_ [Gary]
 
