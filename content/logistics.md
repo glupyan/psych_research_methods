@@ -24,7 +24,7 @@ The readings are available [here](https://drive.google.com/drive/folders/1waKM7z
 
 ## Final project
 
-Information about the final project](/final_project_research_proposal/)
+[Information about the final project](/final_project_research_proposal/)
 
 ## Where to submit what 
 
