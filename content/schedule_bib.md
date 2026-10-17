@@ -66,7 +66,7 @@ We recommend reading the papers in the order they are listed.
 * **Readings:** Skim Bower & Clapper, pausing on what most interests you & reading those parts more thoroughly @bowerExperimentalMethodsCognitive1989; skim over @leekAdaptiveProceduresPsychophysical2001 to make sure you understand the goal and key parts of these adaptive methods; Look over the first chapter or two of @macmillanDetectionTheoryUsers2005
 
 ### `r advdate(section, 8)`
-* [Gary]
+* Practice designing behavioral methods to test specific hypotheses [Gary]
 
 ## `r advdate(lecture, 9)` _Quantifying Qualitative Data_ [Joao]
 
